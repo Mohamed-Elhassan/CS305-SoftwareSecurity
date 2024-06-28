@@ -2,7 +2,9 @@
 
 Summary
 Client Overview and Software Requirements
+
 Client: Artemis Financial
+
 Artemis Financial handles sensitive financial data for clients, including savings, retirement, investments, and insurance information. The company required enhancements to its web application's security to protect this data from unauthorized access and comply with industry regulations. Specifically, they needed secure communication channels and robust data integrity verification.
 
 Issue Addressed:
